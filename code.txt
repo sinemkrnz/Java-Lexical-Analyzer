@@ -1,0 +1,8 @@
+int a = 5 ;
+String [] dizi = { "sinem" , "kurnaz" } ;
+double sayilar [] ;
+int toplam = 15 + 6 ;
++ ;
+public static void maın
+} ;
+1 ;
